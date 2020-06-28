@@ -1,5 +1,8 @@
 # world-of-goals
 
+## DEMO
+[DEMO](https://nountie.github.io/rpg-map/public/)
+
 ## Project setup
 ```
 npm install
