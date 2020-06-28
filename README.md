@@ -1,7 +1,8 @@
 # world-of-goals
-
+- interactive map with highlighted areas that unlock after click
+- made in Vue
 ## DEMO
-[DEMO](https://nountie.github.io/rpg-map/dist/)
+[DEMO](https://nountie.github.io/rpg-map/)
 
 ## Project setup
 ```
