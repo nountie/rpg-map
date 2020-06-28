@@ -1,7 +1,7 @@
 # world-of-goals
 
 ## DEMO
-[DEMO](https://nountie.github.io/rpg-map/public/)
+[DEMO](https://nountie.github.io/rpg-map/dist/)
 
 ## Project setup
 ```
